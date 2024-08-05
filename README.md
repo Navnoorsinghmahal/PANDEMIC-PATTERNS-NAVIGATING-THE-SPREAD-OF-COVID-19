@@ -8,7 +8,6 @@ This repository contains the source code and documentation for the COVID-19 visu
 - [Datasets](#datasets)
 - [Computational Overview](#computational-overview)
 - [Instructions for Running](#instructions-for-running)
-- [Changes from Proposal](#changes-from-proposal)
 - [Discussion](#discussion)
 - [References](#references)
 
@@ -53,13 +52,6 @@ To run our program, follow these steps:
 
 Upon running the program, you will see a window pop up showing the interactive visualizations of the spread of COVID-19 statistics for the world. Additionally, there will be a play/pause button, reset button, and two sets of filters that will let you choose the region you want to visualize. Upon choosing one of the regions from the filter, you will also be able to see its respective bar plot showcasing the statistics for the countries present in that region.
 
-## Changes from Proposal
-
-We made several modifications to our project plan based on feedback and further exploration:
-
-- Expanded the scope of analysis by adding three more filters to include total cases, deaths, and vaccinations, which are adjusted by population based on our algorithm.
-- Enhanced visualization techniques by adding a bar plot, which allowed us to effectively see the change in cases for each country of its respective region.
-- Switched from implementing a search bar to a radio button for filtering through the regions.
 
 ## Discussion
 
